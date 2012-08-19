@@ -2,7 +2,7 @@
 
 With SCSS and fonts from [Font Awesome More](http://gregoryloucas.github.com/Font-Awesome-More), `font-awesome-more-sass-rails` is a gem to integrate Font Awesome More to your Rails application.
 
-This gem was build over `font-awesome-sass-rails`, a [gem](https://github.com/littlebtc/font-awesome-sass-rails) by [Hsiao-Ting Yu](https://github.com/littlebtc).
+This gem was built over `font-awesome-sass-rails`, a [gem](https://github.com/littlebtc/font-awesome-sass-rails) by [Hsiao-Ting Yu](https://github.com/littlebtc).
 
 It supports Rails 3.1.1 and older.
 
