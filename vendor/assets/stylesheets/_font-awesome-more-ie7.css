@@ -257,20 +257,20 @@
 .icon-wordpress            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf50e;&nbsp;'); }
 .icon-git-fork             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf50f;&nbsp;'); }
 
-.icon-blogger-sign				 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf510;&nbsp;'); }
-.icon-blogger     				 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf511;&nbsp;'); }
-.icon-tumblr-sign 				 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf512;&nbsp;'); }
-.icon-tumblr      				 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf513;&nbsp;'); }
-.icon-flickr-sign 				 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf514;&nbsp;'); }
-.icon-flickr      				 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf515;&nbsp;'); }
-.icon-picasa-sign 				 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf516;&nbsp;'); }
-.icon-picasa      				 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf517;&nbsp;'); }
-.icon-amazon-sign 				 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf518;&nbsp;'); }
-.icon-amazon      				 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf519;&nbsp;'); }
-.icon-yelp-sign   				 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf51a;&nbsp;'); }
-.icon-yelp        				 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf51b;&nbsp;'); }
-.icon-soundcloud  				 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf51c;&nbsp;'); }
-.icon-spotify     				 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf51d;&nbsp;'); }
+.icon-blogger-sign         { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf510;&nbsp;'); }
+.icon-blogger              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf511;&nbsp;'); }
+.icon-tumblr-sign          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf512;&nbsp;'); }
+.icon-tumblr               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf513;&nbsp;'); }
+.icon-flickr-sign          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf514;&nbsp;'); }
+.icon-flickr               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf515;&nbsp;'); }
+.icon-picasa-sign          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf516;&nbsp;'); }
+.icon-picasa               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf517;&nbsp;'); }
+.icon-amazon-sign          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf518;&nbsp;'); }
+.icon-amazon               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf519;&nbsp;'); }
+.icon-yelp-sign            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf51a;&nbsp;'); }
+.icon-yelp                 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf51b;&nbsp;'); }
+.icon-soundcloud           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf51c;&nbsp;'); }
+.icon-spotify              { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf51d;&nbsp;'); }
 
 .icon-yahoo-sign           { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf520;&nbsp;'); }
 .icon-yahoo                { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf521;&nbsp;'); }
@@ -279,7 +279,7 @@
 .icon-google-sign          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf524;&nbsp;'); }
 .icon-google               { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf525;&nbsp;'); }
 .icon-hacker-news          { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf526;&nbsp;'); }
-.icon-map          				 { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf529;&nbsp;'); }
+.icon-map                  { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf529;&nbsp;'); }
 .icon-bus-sign             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf52a;&nbsp;'); }
 .icon-bike-sign            { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf52b;&nbsp;'); }
 .icon-car-sign             { *zoom: expression( this.runtimeStyle['zoom'] = "1", this.innerHTML = '&#xf52c;&nbsp;'); }

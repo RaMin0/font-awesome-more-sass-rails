@@ -1,4 +1,4 @@
-# Font Awesome More 2.0 + SASS + Rails
+# Font Awesome More 2.1 + SASS + Rails
 
 With SCSS and fonts from [Font Awesome More](http://gregoryloucas.github.com/Font-Awesome-More), `font-awesome-more-sass-rails` is a gem to integrate Font Awesome More to your Rails application.
 
@@ -30,7 +30,7 @@ You can also use it with the SASS-converted Bootstrap gem, like [bootstrap-sass]
 
 ### IE7 Support
 
-This gem also includes `font-awesome-more-ie7`, the stylesheet for IE7 support bundled with Font Awesome More 2.0.
+This gem also includes `font-awesome-more-ie7`, the stylesheet for IE7 support bundled with Font Awesome More 2.1.
 
 Use this stylesheet with [conditional comment](http://en.wikipedia.org/wiki/Conditional_comment) may be the best way to support IE7. But it can be difficult when it comes to assets pipeline. See this article on StackOverflow for a workaround: [Using Rails 3.1 assets pipeline to conditionally use certain css](http://stackoverflow.com/questions/7134034/using-rails-3-1-assets-pipeline-to-conditionally-use-certain-css)
 
