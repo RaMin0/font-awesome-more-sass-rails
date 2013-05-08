@@ -4,7 +4,7 @@ With SCSS and fonts from [Font Awesome More](http://gregoryloucas.github.com/Fon
 
 This gem was built over `font-awesome-sass-rails`, a [gem](https://github.com/littlebtc/font-awesome-sass-rails) by [Hsiao-Ting Yu](https://github.com/littlebtc).
 
-It supports Rails 3.1.1 and older.
+It supports Rails 3.1.1 and newer.
 
 ## Installation
 
@@ -14,7 +14,7 @@ Add `font-awesome-more-sass-rails` gem to your `Gemfile`:
 
 Then add the stylesheet to your Rails assets. The simplest way to apply Font Awesome More site-wide is to add a `require` statement in `app/assets/stylesheets/application.css`:
 
-    *= require _font-awesome-more
+    *= require font-awesome-more
 
 That's it!
 
@@ -34,7 +34,7 @@ Use this stylesheet with [conditional comment](http://en.wikipedia.org/wiki/Cond
 
 When you try this workaround, in your `application-ie.css`, append:
 
-    *= require _font-awesome-more-ie7.min
+    *= require font-awesome-more-ie7.min
 
 ## License
 

@@ -5,6 +5,7 @@ require 'font-awesome-more-sass-rails/version'
 Gem::Specification.new do |s|
   s.name        = 'font-awesome-more-sass-rails'
   s.version     = Font::AwesomeMore::Sass::Rails::VERSION
+  s.licenses    = ['SIL Open Font', 'MIT']
   s.authors     = ['Ramy Aboul Naga']
   s.email       = ['ramy.naga@gmail.com']
   s.homepage    = 'https://github.com/RaMin0/font-awesome-more-sass-rails'
